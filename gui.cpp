@@ -83,7 +83,7 @@ int main(int argc, char *argv[])
   buffer = gtk_text_view_get_buffer (GTK_TEXT_VIEW (text_view));
 
 
-  /* Create a 2 buttons. */
+  /* Create 2 buttons. */
   button13 = gtk_button_new_with_label ("Rot 13");
   button47= gtk_button_new_with_label ("Rot 47");
 
